@@ -1,5 +1,9 @@
-## workflow_notes
-Place to keep workflow notes  
-this resides C:\Users\hovengap\Desktop\Copies_HardDrive_08252022\WHOI\TGP\workflow_notes
-
-New change Num1
+## Notes
+Workflow  
+* on laptop cd to working folder  
+* `git pull`  
+* modify files
+* `git status`
+* to track a file `git add (fileID)`
+* `git commit -a -m "(give some notes)"`
+* `git push`
